@@ -1,0 +1,5 @@
+:root {
+    --pry-dark-color: hsl(230, 45%, 7%);
+    --pry-light-color: hsl(231, 77%, 90%);
+    --pry-text-color: hsl(0, 0%, 100%);
+}
